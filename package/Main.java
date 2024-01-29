@@ -1,6 +1,6 @@
 /**
  * Author: Peter Yau
- * Email: PeterCY.Yau@glasgow.ac.uk
+ * E-mail: PeterCY.Yau@glasgow.ac.uk
  * Date: 20240122
  * Description: This class contains the main method to demonstrate the usage of the vehicle package.
  */
