@@ -1,11 +1,11 @@
 /**
  * Author: Peter Yau
- * Email: PeterCY.Yau@glasgow.ac.uk
+ * E-mail: PeterCY.Yau@glasgow.ac.uk
  * Date: 20240122
  * Description: This class represents a car with an engine and fuel tank.
  */
 
- package vehicle;
+package vehicle;
 
 public class Car {
     private String make;
