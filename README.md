@@ -1,1 +1,1 @@
-Sample code for Car, Engine and FuelTank.
+Sample Java code for Car, Engine, and FuelTank objects.
