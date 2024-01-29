@@ -1,6 +1,6 @@
 /**
  * Author: Peter Yau
- * Email: PeterCY.Yau@glasgow.ac.uk
+ * E-mail: PeterCY.Yau@glasgow.ac.uk
  * Date: 20240122
  * Description: This class represents the fuel tank of a vehicle.
  */
