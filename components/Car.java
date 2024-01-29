@@ -1,7 +1,6 @@
-package components;
 /*
  * Author: Peter Yau
- * Email: PeterCY.Yau@glasgow.ac.uk
+ * E-mail: PeterCY.Yau@glasgow.ac.uk
  * Date: 20240122
  * 
  * Description: The Car class represents a vehicle with an engine and a fuel tank.
